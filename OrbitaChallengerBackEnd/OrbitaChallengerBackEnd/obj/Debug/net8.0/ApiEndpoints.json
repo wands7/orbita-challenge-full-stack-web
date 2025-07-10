@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "Delete",
+    "RelativePath": "delete/{ra}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ra",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "Edit",
+    "RelativePath": "edit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "OrbitaChallengerBackEnd.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "GetByRA",
+    "RelativePath": "GetByRA/{ra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RA",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "GetBy",
+    "RelativePath": "search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchTerm",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OrbitaChallengerBackEnd.ViewModels.ResultViewModel\u00601[[OrbitaChallengerBackEnd.Models.Student, OrbitaChallengerBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

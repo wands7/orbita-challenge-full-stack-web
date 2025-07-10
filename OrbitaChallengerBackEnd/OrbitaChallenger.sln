@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitaChallengerBackEnd", "OrbitaChallengerBackEnd\OrbitaChallengerBackEnd.csproj", "{7461CAE8-7948-4D38-9949-8319AFA9A61C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{8B27E6F6-587C-4383-8F7F-3BA31BBC00A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7461CAE8-7948-4D38-9949-8319AFA9A61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7461CAE8-7948-4D38-9949-8319AFA9A61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7461CAE8-7948-4D38-9949-8319AFA9A61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7461CAE8-7948-4D38-9949-8319AFA9A61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7461CAE8-7948-4D38-9949-8319AFA9A61C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50AB6829-7A19-4A7A-BDC5-C4145F9B21B3}
+	EndGlobalSection
+EndGlobal

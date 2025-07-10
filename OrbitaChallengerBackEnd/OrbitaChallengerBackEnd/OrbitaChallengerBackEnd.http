@@ -1,0 +1,6 @@
+@OrbitaChallengerBackEnd_HostAddress = http://localhost:5135
+
+GET {{OrbitaChallengerBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

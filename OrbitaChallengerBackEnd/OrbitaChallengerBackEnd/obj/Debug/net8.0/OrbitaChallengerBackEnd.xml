@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrbitaChallengerBackEnd</name>
+    </assembly>
+    <members>
+        <member name="T:OrbitaChallengerBackEnd.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:OrbitaChallengerBackEnd.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrbitaChallengerBackEnd.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:OrbitaChallengerBackEnd.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
