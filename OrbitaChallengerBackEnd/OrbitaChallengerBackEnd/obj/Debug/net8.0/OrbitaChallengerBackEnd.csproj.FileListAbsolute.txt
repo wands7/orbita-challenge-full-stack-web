@@ -8,7 +8,9 @@ C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBac
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\OrbitaChallengerBackEnd.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\OrbitaChallengerBackEnd.pdb
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\OrbitaChallengerBackEnd.xml
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Humanizer.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -31,6 +33,12 @@ C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBac
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\MySqlConnector.dll
@@ -45,6 +53,7 @@ C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBac
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\bin\Debug\net8.0\System.Text.Json.dll
@@ -132,6 +141,7 @@ C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBac
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrbitaChallengerBackEnd.props
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrbitaChallengerBackEnd.props
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\OrbitaCh.5260E6A8.Up2Date
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\OrbitaChallengerBackEnd.dll
 C:\Users\elli0t\source\repos\orbita-challenge-full-stack-web\OrbitaChallengerBackEnd\OrbitaChallengerBackEnd\obj\Debug\net8.0\refint\OrbitaChallengerBackEnd.dll

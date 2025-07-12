@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using OrbitaChallengerBackEnd.Interfaces;
 using OrbitaChallengerBackEnd.Models;
 using OrbitaChallengerBackEnd.ViewModels;
@@ -13,8 +14,8 @@ namespace OrbitaChallengerBackEnd.Controllers
         {
             _studentRepository = studentRepository;
         }
-
-        [HttpGet]
+        //[Authorize]
+        [HttpGet("getAll")]
         public async Task<IActionResult> GetAll()
         {
             try
@@ -32,7 +33,29 @@ namespace OrbitaChallengerBackEnd.Controllers
             }
         }
 
-        [HttpPost]
+        //[Authorize]
+        [HttpGet("getByName")]
+        public async Task<IActionResult> GetByName([FromQuery] string name)
+        {
+            try
+            {
+                if (string.IsNullOrWhiteSpace(name))
+                    return BadRequest("Name cannot be empty.");
+
+                var result = await _studentRepository.GetByNameAsync(name);
+
+                if (!result.Success || result.Data == null)
+                    return NotFound(new { Message = "Student not found." });
+
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { Message = "An error occurred while retrieving student by name.", Details = ex.Message });
+            }
+        }
+        //[Authorize]
+        [HttpPost("add")]
         public async Task<ActionResult> Add([FromBody] Student student)
         {
             try
@@ -54,7 +77,7 @@ namespace OrbitaChallengerBackEnd.Controllers
             }
 
         }
-
+        //[Authorize]
         [HttpPost("edit")]
         public async Task<ActionResult> Edit([FromBody] Student student)
         {
@@ -79,7 +102,7 @@ namespace OrbitaChallengerBackEnd.Controllers
 
             }
         }
-
+        //[Authorize]
         [HttpGet("search")]
         public async Task<ActionResult<ResultViewModel<Student>>> GetBy([FromQuery] string searchTerm)
         {
@@ -102,7 +125,7 @@ namespace OrbitaChallengerBackEnd.Controllers
                 return BadRequest(new { Message = "An error occurred.", Details = ex.Message });
             }
         }
-
+        //[Authorize]
         [HttpPost("delete/{ra}")]
         public async Task<IActionResult> Delete(string ra)
         {
@@ -123,8 +146,8 @@ namespace OrbitaChallengerBackEnd.Controllers
 
             }
         }
-
-        [HttpGet("GetByRA/{ra}")]
+        //[Authorize]
+        [HttpGet("getByRA/{ra}")]
         public async Task<ActionResult> GetByRA(string RA)
         {
             try

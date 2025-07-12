@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "Add",
+    "RelativePath": "add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "OrbitaChallengerBackEnd.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
     "Method": "Delete",
     "RelativePath": "delete/{ra}",
     "HttpMethod": "POST",
@@ -33,8 +49,34 @@
   },
   {
     "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "GetAll",
+    "RelativePath": "getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
+    "Method": "GetByName",
+    "RelativePath": "getByName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.StudentController",
     "Method": "GetByRA",
-    "RelativePath": "GetByRA/{ra}",
+    "RelativePath": "getByRA/{ra}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,6 +84,22 @@
       {
         "Name": "RA",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrbitaChallengerBackEnd.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "OrbitaChallengerBackEnd.Models.LoginModel",
         "IsRequired": true
       }
     ],

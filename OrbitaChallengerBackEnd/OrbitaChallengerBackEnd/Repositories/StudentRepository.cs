@@ -197,6 +197,28 @@ namespace OrbitaChallengerBackEnd.Repositories
             }
         }
 
+        public async Task<ResultViewModel<List<Student>>> GetByNameAsync(string name)
+        {
+            try
+            {
+                var students = await _context.Students
+                    .Where(s => EF.Functions.Like(s.Name.ToLower(), $"%{name.ToLower()}%"))
+                    .ToListAsync();
+
+                if (students == null || students.Count == 0)
+                {
+                    return new ResultViewModel<List<Student>>(false, "No students found with that name.");
+                }
+
+                return new ResultViewModel<List<Student>>(true, "Students retrieved successfully", students);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error retrieving students by name.");
+                return new ResultViewModel<List<Student>>(false, "Error retrieving students by name.");
+            }
+        }
+
     }
 
 }

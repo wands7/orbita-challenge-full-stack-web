@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\orbitachallengerbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\orbitachallengerbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,22 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\orbitachallengerbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\orbitachallengerbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +31,40 @@
       "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\orbitachallengerbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\orbitachallengerbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\validators\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\validators\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\orbitachallengerbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\orbitachallengerbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|c:\\users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\orbitachallengerbackend\\orbitachallengerbackend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7461CAE8-7948-4D38-9949-8319AFA9A61C}|OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj|solutionrelative:orbitachallengerbackend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,84 +106,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrbitaChallengerBackEnd",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Models\\LoginModel.cs",
+              "RelativeToolTip": "OrbitaChallengerBackEnd\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:37:19.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OrbitaChallengerBackEnd\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:36:51.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Services\\TokenService.cs",
+              "RelativeToolTip": "OrbitaChallengerBackEnd\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:26:59.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Validators\\StudentValidator.cs",
+              "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Validators\\StudentValidator.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Validators\\StudentValidator.cs",
+              "RelativeToolTip": "OrbitaChallengerBackEnd\\Validators\\StudentValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:24:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrbitaChallengerBackEnd.csproj",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T18:04:24.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T18:04:24.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Properties\\launchSettings.json",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T17:52:49.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:52:49.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "OrbitaChallengerBackEnd",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T17:17:22.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:17:22.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Program.cs",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Program.cs",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T17:14:50.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\appsettings.json",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\appsettings.json",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\appsettings.json",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-10T17:14:48.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Interfaces\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Interfaces\\IStudentRepository.cs",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Interfaces\\IStudentRepository.cs",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:11:02.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:11:02.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Data\\AppDbContext.cs",
@@ -175,12 +235,11 @@
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:09:19.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:09:19.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "ResultViewModel.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\ViewModels\\ResultViewModel.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\ViewModels\\ResultViewModel.cs",
@@ -188,25 +247,23 @@
               "RelativeToolTip": "OrbitaChallengerBackEnd\\ViewModels\\ResultViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:08:31.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:08:31.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Repositories\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:07:54.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:07:54.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Models\\BaseEntity.cs",
@@ -214,12 +271,11 @@
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T17:07:08.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:07:08.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Models\\Student.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Models\\Student.cs",
@@ -232,13 +288,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "OrbitaChallengerBackEnd\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\elli0t\\source\\repos\\orbita-challenge-full-stack-web\\OrbitaChallengerBackEnd\\OrbitaChallengerBackEnd\\Controllers\\StudentController.cs",
               "RelativeToolTip": "OrbitaChallengerBackEnd\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAUwJYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T13:43:02.755Z",
               "EditorCaption": ""
